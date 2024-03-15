@@ -4,9 +4,9 @@ class Solution:
         res = 0
         
         while l<r:
-            res = max(res, (min(height[l], height[r]) * (r-l)))
+            res = max(res, min(height[l],height[r])*(r-l))
             if height[l]<height[r]:
-                l+= 1
+                l += 1
             else:
                 r -= 1
             
