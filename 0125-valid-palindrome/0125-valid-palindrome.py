@@ -6,5 +6,5 @@ class Solution:
             if c.isalpha() or c.isdigit():
                 new += c.lower()
             
-        return (new==new[::-1])
-        
+        return new==new[::-1]
+            
