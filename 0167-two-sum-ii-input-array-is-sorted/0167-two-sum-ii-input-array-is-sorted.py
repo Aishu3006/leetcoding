@@ -4,10 +4,10 @@ class Solution:
         
         while l<r:
             summ = numbers[l] + numbers[r]
-            
-            if summ>target:
+            if summ > target:
                 r -= 1
             elif summ < target:
                 l += 1
             else:
-                return[l+1, r+1]
+                return [l+1, r+1]
+        
