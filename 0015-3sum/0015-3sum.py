@@ -3,7 +3,7 @@ class Solution:
         res = []
         nums.sort()
         
-        for i,v in enumerate(nums):
+        for i, v in enumerate(nums):
             if v>0:
                 break
             
@@ -12,18 +12,18 @@ class Solution:
             
             l,r = i+1, len(nums)-1
             while l<r:
-                Sum = v + nums[l] + nums[r]
-                if Sum > 0:
-                    r -= 1
-                elif Sum < 0:
+                threeSum = v + nums[l] + nums[r]
+                if threeSum < 0:
                     l += 1
+                elif threeSum > 0:
+                    r -= 1
                 else:
                     res.append([v, nums[l], nums[r]])
                     l+=1
                     r-=1
-                    while l<r and nums[l]==nums[l-1]:
+                    while nums[l]==nums[l-1] and l<r:
                         l+=1
-                        
-        return res
                     
+        return res
+            
         
