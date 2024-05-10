@@ -11,4 +11,3 @@ class Solution:
             CountT[t[i]] = 1 + CountT.get(t[i], 0)
             
         return CountS==CountT
-        
