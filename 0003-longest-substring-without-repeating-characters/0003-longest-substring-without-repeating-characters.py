@@ -9,7 +9,7 @@ class Solution:
                 charset.remove(s[l])
                 l+=1
             charset.add(s[r])
-            res = max(res, r-l+1)
+            res = max(res, len(charset))
         
         return res
                 
