@@ -6,10 +6,10 @@ class Solution:
         for n in numset:
             if n-1 not in numset:
                 length = 1
-                while(n+length) in numset:
+                while (n+length) in numset:
                     length += 1
-                longest = max(length, longest)
-                
+                longest = max(longest,length)
+        
         return longest
                 
         
