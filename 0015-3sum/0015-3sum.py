@@ -3,27 +3,29 @@ class Solution:
         res = []
         nums.sort()
         
-        for i, v in enumerate(nums):
+        for i,v in enumerate(nums):
             if v>0:
                 break
             
             if i>0 and v==nums[i-1]:
                 continue
             
-            l,r = i+1, len(nums)-1
+            l, r = i+1, len(nums)-1
             while l<r:
-                threeSum = v + nums[l] + nums[r]
-                if threeSum < 0:
+                summ = v + nums[l] + nums[r]
+                if summ<0:
                     l += 1
-                elif threeSum > 0:
+                elif summ>0:
                     r -= 1
                 else:
                     res.append([v, nums[l], nums[r]])
                     l+=1
                     r-=1
-                    while nums[l]==nums[l-1] and l<r:
-                        l+=1
                     
+                    while l<r and nums[l]==nums[l-1]:
+                        l+=1
+            
         return res
+            
             
         
