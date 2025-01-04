@@ -1,7 +1,16 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hashset = set()
-        for n in nums:
-            hashset.add(n)
+        numSet = set()
+
+        for i in range(len(nums)):
+            if nums[i] in numSet:
+                return True
+            
+            numSet.add(nums[i])
         
-        return len(hashset)!=len(nums)
+        return False
+        
+
+        
+
+        
