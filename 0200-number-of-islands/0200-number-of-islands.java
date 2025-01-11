@@ -1,11 +1,12 @@
 class Solution {
 
+    private static final int[][] directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+
     private void dfs(char[][] grid, int r, int c){
         if(r<0 || r>=grid.length || c<0 || c>=grid[0].length || grid[r][c]=='0'){
             return;
         }
 
-        int[][] directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
         grid[r][c] = '0';
 
         for(int[] dir: directions){
