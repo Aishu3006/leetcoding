@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Aishu3006/leetcoding/tree/master/0133-clone-graph) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aishu3006/leetcoding/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aishu3006/leetcoding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
