@@ -3,17 +3,18 @@ class Solution:
         count = {}
         freq = [[] for i in range(len(nums)+1)]
 
-        for n in nums:
-            count[n] = 1 + count.get(n, 0)
+        for i in range(len(nums)):
+            count[nums[i]] = 1 + count.get(nums[i], 0)
         
-        for val, fre in count.items():
-            freq[fre].append(val)
+        for n, fre in count.items():
+            freq[fre].append(n)
         
         res = []
         for i in range(len(freq)-1, -1, -1):
-            for val in freq[i]:
-                res.append(val)
-                if len(res) == k:
+            for ele in freq[i]:
+                res.append(ele)
+
+                if len(res)==k:
                     return res
             
         
