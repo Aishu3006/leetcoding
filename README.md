@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aishu3006/leetcoding/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Aishu3006/leetcoding/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aishu3006/leetcoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aishu3006/leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aishu3006/leetcoding/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
