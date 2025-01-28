@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aishu3006/leetcoding/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aishu3006/leetcoding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Aishu3006/leetcoding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aishu3006/leetcoding/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aishu3006/leetcoding/tree/master/0128-longest-consecutive-sequence) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aishu3006/leetcoding/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aishu3006/leetcoding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aishu3006/leetcoding/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Aishu3006/leetcoding/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
