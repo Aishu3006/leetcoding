@@ -4,13 +4,12 @@ class Solution:
         anagramGroups = defaultdict(list)
 
         for s in strs:
-            charArray = [0]*26
+            charArr = [0]*26
             for c in s:
-                charArray[ord(c)-ord("a")] += 1
-            anagramGroups[tuple(charArray)].append(s)
-        
-        return list(anagramGroups.values())
-                
+                charArr[ord(c)-ord('a')] += 1
+            anagramGroups[tuple(charArr)].append(s)
+
+        return list(anagramGroups.values())                
                 
                 
         
