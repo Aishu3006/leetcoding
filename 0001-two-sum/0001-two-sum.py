@@ -2,13 +2,13 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hashMap = {}
 
-        for i,n in enumerate(nums):
-            diff = target - n
+        for ind in range(len(nums)):
+            diff = target - nums[ind]
             if diff in hashMap:
-                return [hashMap[diff], i]
+
+                return [hashMap[diff], ind]
             
-            hashMap[n] = i
-            
+            hashMap[nums[ind]] = ind
             
         
         
