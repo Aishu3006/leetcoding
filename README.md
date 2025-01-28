@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aishu3006/leetcoding/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/Aishu3006/leetcoding/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aishu3006/leetcoding/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Aishu3006/leetcoding/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
