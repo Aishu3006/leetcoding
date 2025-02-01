@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Aishu3006/leetcoding/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Aishu3006/leetcoding/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/Aishu3006/leetcoding/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Aishu3006/leetcoding/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Aishu3006/leetcoding/tree/master/0883-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Aishu3006/leetcoding/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
