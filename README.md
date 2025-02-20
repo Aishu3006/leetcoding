@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aishu3006/leetcoding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aishu3006/leetcoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aishu3006/leetcoding/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Aishu3006/leetcoding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Aishu3006/leetcoding/tree/master/1023-time-based-key-value-store) |
 ## Stack
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishu3006/leetcoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aishu3006/leetcoding/tree/master/0015-3sum) |
+| [0443-string-compression](https://github.com/Aishu3006/leetcoding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
