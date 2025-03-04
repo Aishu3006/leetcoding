@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Aishu3006/leetcoding/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Aishu3006/leetcoding/tree/master/0907-koko-eating-bananas) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Aishu3006/leetcoding/tree/master/1108-analyze-user-website-visit-pattern) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Aishu3006/leetcoding/tree/master/1023-time-based-key-value-store) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Aishu3006/leetcoding/tree/master/1108-analyze-user-website-visit-pattern) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aishu3006/leetcoding/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
