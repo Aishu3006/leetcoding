@@ -1,50 +1,48 @@
 class Solution:
-    def getCombinations(self, routes, combinationSize):
+    def getCombinations(self, route, combinationSize):
         combinations = []
 
-        def dfs(startInd, currentCombination):
+        def dfs(ind, currentCombination):
+            
             if len(currentCombination)==combinationSize:
                 combinations.append(tuple(currentCombination))
                 return
             
-            if startInd>=len(routes):
+            if ind>=len(route):
                 return
             
             #Take
-            currentCombination.append(routes[startInd])
-            dfs(startInd+1, currentCombination)
+            currentCombination.append(route[ind])
+            dfs(ind+1, currentCombination)
 
             #Not Take
             currentCombination.pop()
-            dfs(startInd+1, currentCombination)
-
+            dfs(ind+1, currentCombination)
+        
         dfs(0, [])
+        print(combinations)
         return combinations
 
     def mostVisitedPattern(self, username: List[str], timestamp: List[int], website: List[str]) -> List[str]:
-        userRoutes = defaultdict(list)
+        userRouteMap = defaultdict(list)
         for time, user, site in sorted(zip(timestamp, username, website)):
-            userRoutes[user].append(site)
-        print(userRoutes)
+            userRouteMap[user].append(site)
         
-        webRouteFreqMap = defaultdict(int)
-        for user, webRoutes in userRoutes.items():
-            routeCombinations = set(self.getCombinations(webRoutes, 3))
-            for webRoute in routeCombinations:
-                webRouteFreqMap[webRoute] += 1
-        print(webRouteFreqMap)
+        patternFreqMap = defaultdict(int)
+        for user, webRoute in userRouteMap.items():
+            patterns = set(self.getCombinations(webRoute, 3))
+            for pattern in patterns:
+                patternFreqMap[pattern] += 1
         
-        maxVal = max(webRouteFreqMap.values())
-        routes = []
-        for route, freq in webRouteFreqMap.items():
-            if freq==maxVal:
-                routes.append(route)
+        maxVal = max(patternFreqMap.values())
+        res = []
+        for pattern, freq in patternFreqMap.items():
+            if patternFreqMap[pattern] == maxVal:
+                res.append(pattern)
         
-        if len(routes)>1:
-            routes.sort()
+        if len(res)>1:
+            res.sort()
         
-        return routes[0]
-
-        
+        return res[0]
 
         
