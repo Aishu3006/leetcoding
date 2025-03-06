@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aishu3006/leetcoding/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Aishu3006/leetcoding/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Aishu3006/leetcoding/tree/master/0146-lru-cache) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Aishu3006/leetcoding/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0217-contains-duplicate](https://github.com/Aishu3006/leetcoding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishu3006/leetcoding/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aishu3006/leetcoding/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aishu3006/leetcoding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aishu3006/leetcoding/tree/master/0076-minimum-window-substring) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Aishu3006/leetcoding/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/Aishu3006/leetcoding/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aishu3006/leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Aishu3006/leetcoding/tree/master/0443-string-compression) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishu3006/leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aishu3006/leetcoding/tree/master/0076-minimum-window-substring) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Aishu3006/leetcoding/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aishu3006/leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
 ## Design
