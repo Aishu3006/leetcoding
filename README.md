@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishu3006/leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Aishu3006/leetcoding/tree/master/2649-count-total-number-of-colored-cells) |
 ## Monotonic Stack
 |  |
 | ------- |
