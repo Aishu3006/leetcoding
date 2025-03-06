@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aishu3006/leetcoding/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Aishu3006/leetcoding/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Aishu3006/leetcoding/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Aishu3006/leetcoding/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aishu3006/leetcoding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishu3006/leetcoding/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aishu3006/leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Aishu3006/leetcoding/tree/master/1023-time-based-key-value-store) |
@@ -157,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Aishu3006/leetcoding/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Aishu3006/leetcoding/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
 | [1023-time-based-key-value-store](https://github.com/Aishu3006/leetcoding/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishu3006/leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aishu3006/leetcoding/tree/master/2649-count-total-number-of-colored-cells) |
 ## Monotonic Stack
 |  |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
