@@ -12,10 +12,7 @@ class Solution:
         if n==0:
             return 0
         
-        res = 1
-
-        for i in range(1, n):
-            res += 4*i
+        res = 1 + 2*(n*(n-1))
         
         return res 
         
