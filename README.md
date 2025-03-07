@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aishu3006/leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/Aishu3006/leetcoding/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/Aishu3006/leetcoding/tree/master/1023-time-based-key-value-store) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Aishu3006/leetcoding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aishu3006/leetcoding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishu3006/leetcoding/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Aishu3006/leetcoding/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/Aishu3006/leetcoding/tree/master/0883-car-fleet) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Aishu3006/leetcoding/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Heap (Priority Queue)
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishu3006/leetcoding/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Aishu3006/leetcoding/tree/master/0778-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Aishu3006/leetcoding/tree/master/0778-reorganize-string) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Quickselect
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aishu3006/leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Aishu3006/leetcoding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aishu3006/leetcoding/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/Aishu3006/leetcoding/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/Aishu3006/leetcoding/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishu3006/leetcoding/tree/master/0011-container-with-most-water) |
+| [0778-reorganize-string](https://github.com/Aishu3006/leetcoding/tree/master/0778-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
