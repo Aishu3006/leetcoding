@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aishu3006/leetcoding/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Aishu3006/leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
+| [0419-battleships-in-a-board](https://github.com/Aishu3006/leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Aishu3006/leetcoding/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Aishu3006/leetcoding/tree/master/0792-binary-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aishu3006/leetcoding/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/Aishu3006/leetcoding/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Aishu3006/leetcoding/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Aishu3006/leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0572-subtree-of-another-tree](https://github.com/Aishu3006/leetcoding/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Aishu3006/leetcoding/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Aishu3006/leetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Aishu3006/leetcoding/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Aishu3006/leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
