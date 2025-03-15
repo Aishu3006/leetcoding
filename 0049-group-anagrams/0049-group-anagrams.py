@@ -8,8 +8,7 @@ class Solution:
             for c in s:
                 charArr[ord(c)-ord('a')] += 1
             anagramGroups[tuple(charArr)].append(s)
-
-        return list(anagramGroups.values())                
-                
+        
+        return list(anagramGroups.values())
                 
         
