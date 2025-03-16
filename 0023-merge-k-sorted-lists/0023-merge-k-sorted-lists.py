@@ -14,27 +14,29 @@ class Solution:
             for i in range(0, len(lists), 2):
                 l1 = lists[i]
                 l2 = lists[i+1] if i+1<len(lists) else None
-                mergedLists.append(self.mergeLists(l1,l2))
-            lists = mergedLists
 
-        return lists[0]
+                mergedLists.append(self.mergeLists(l1,l2))
+            
+            lists = mergedLists
         
-    def mergeLists(self, l1:Optional[ListNode], l2:Optional[ListNode]) -> Optional[ListNode]:
+        return lists[0]
+    
+    def mergeLists(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode()
-        curr = dummy
+        cur = dummy
 
         while l1 and l2:
             if l1.val<l2.val:
-                curr.next = l1
+                cur.next = l1
                 l1 = l1.next
             else:
-                curr.next = l2
+                cur.next = l2
                 l2 = l2.next
-            curr = curr.next
+            cur = cur.next
         
         if l1:
-            curr.next = l1
+            cur.next = l1
         if l2:
-            curr.next = l2
+            cur.next = l2
         
         return dummy.next
