@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aishu3006/leetcoding/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Aishu3006/leetcoding/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Aishu3006/leetcoding/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aishu3006/leetcoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Aishu3006/leetcoding/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Aishu3006/leetcoding/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0217-contains-duplicate](https://github.com/Aishu3006/leetcoding/tree/master/0217-contains-duplicate) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishu3006/leetcoding/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aishu3006/leetcoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Aishu3006/leetcoding/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
