@@ -1,30 +1,17 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        nums.sort()
+        res = set()
+        dups = set()
+        seen = {}
 
-        for i,v in enumerate(nums):
-            if v>0:
-                break
-            
-            if i>0 and nums[i]==nums[i-1]:
-                continue
-            
-            l = i+1
-            r = len(nums)-1
+        for i, val1 in enumerate(nums):
+            if val1 not in dups:
+                dups.add(val1)
 
-            while l<r:
-                summ = v + nums[l] + nums[r]
-                if summ<0:
-                    l+=1
-                elif summ>0:
-                    r-=1
-                else:
-                    res.append([v,nums[l],nums[r]])
-                    l+=1
-                    r-=1
-
-                    while l<r and nums[l]==nums[l-1]:
-                        l+=1
+                for j, val2 in enumerate(nums[i+1:]):
+                    complement = -val1 - val2
+                    if complement in seen and seen[complement] == i:
+                        res.add(tuple(sorted((val1, val2, complement))))
+                    seen[val2] = i
         
-        return res
+        return [list(x) for x in res]
