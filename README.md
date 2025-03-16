@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Aishu3006/leetcoding/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Aishu3006/leetcoding/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Aishu3006/leetcoding/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Aishu3006/leetcoding/tree/master/1036-rotting-oranges) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Aishu3006/leetcoding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Aishu3006/leetcoding/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Aishu3006/leetcoding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Aishu3006/leetcoding/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aishu3006/leetcoding/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Aishu3006/leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Aishu3006/leetcoding/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
