@@ -1,6 +1,34 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        #Kahn's algorithm
 
+        indegree = [0]*numCourses
+        prereqMap = defaultdict(list)
+        q = deque()
+
+        for crs, prereq in prerequisites:
+            indegree[crs]+=1
+            prereqMap[prereq].append(crs)
+        
+        for i in range(numCourses):
+            if indegree[i]==0:
+                q.append(i)
+        
+        nodesVisited = 0
+        while q:
+            node = q.popleft()
+            nodesVisited += 1
+
+            for crs in prereqMap[node]:
+                indegree[crs] -= 1
+                if indegree[crs]==0:
+                    q.append(crs)
+        
+        return nodesVisited == numCourses
+
+
+
+        '''
         courseMap = defaultdict(list)
 
         for crs, prereq in prerequisites:
@@ -32,4 +60,5 @@ class Solution:
                 return False
         
         return True
+        '''
         
