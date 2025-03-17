@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aishu3006/leetcoding/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aishu3006/leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aishu3006/leetcoding/tree/master/0380-insert-delete-getrandom-o1) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aishu3006/leetcoding/tree/master/2649-count-total-number-of-colored-cells) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aishu3006/leetcoding/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Aishu3006/leetcoding/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aishu3006/leetcoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Aishu3006/leetcoding/tree/master/0146-lru-cache) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aishu3006/leetcoding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aishu3006/leetcoding/tree/master/0210-course-schedule-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aishu3006/leetcoding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
