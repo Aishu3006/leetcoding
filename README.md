@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Aishu3006/leetcoding/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Aishu3006/leetcoding/tree/master/1036-rotting-oranges) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Aishu3006/leetcoding/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1428-jump-game-iii](https://github.com/Aishu3006/leetcoding/tree/master/1428-jump-game-iii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Aishu3006/leetcoding/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Aishu3006/leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0572-subtree-of-another-tree](https://github.com/Aishu3006/leetcoding/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
+| [1428-jump-game-iii](https://github.com/Aishu3006/leetcoding/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aishu3006/leetcoding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Aishu3006/leetcoding/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Aishu3006/leetcoding/tree/master/1036-rotting-oranges) |
+| [1428-jump-game-iii](https://github.com/Aishu3006/leetcoding/tree/master/1428-jump-game-iii) |
 ## Union Find
 |  |
 | ------- |
